@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "liyang <liyang372328@163.com >",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
